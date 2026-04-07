@@ -5,8 +5,8 @@ import { Package, TrendingUp, Users, DollarSign, ShoppingCart, Truck, CreditCard
 // Mock data for Modern Tiles Uganda
 const mockUsers = [
   { id: 'ADM001', password: 'admin123', name: 'Admin User', role: 'admin', avatar: 'A' },
-  { id: 'MGR001', password: 'manager123', name: 'John Okello', role: 'manager', avatar: 'J' },
-  { id: 'SLS001', password: 'sales123', name: 'Sarah Nakamya', role: 'sales', avatar: 'S' },
+  { id: 'MGR001', password: 'manager123', name: 'Mr. Amitosh', role: 'manager', avatar: 'J' },
+  { id: 'SLS001', password: 'sales123', name: 'Mr. Yeshudas', role: 'sales', avatar: 'S' },
 ];
 
 const salesData = [
